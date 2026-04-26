@@ -1,4 +1,4 @@
-# CODSOFT-  # 🚢 Titanic Survival Prediction
+🚢 Titanic Survival Prediction
 
 A Machine Learning project that predicts whether a passenger survived the Titanic disaster based on various features such as age, gender, passenger class, fare, and more. The model is trained using classification algorithms and deployed as a web application using Streamlit.
 
